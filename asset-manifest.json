@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Calvinist-1689/marvel.github.io/static/css/main.3a9b5ecc.chunk.css",
+    "main.js": "/Calvinist-1689/marvel.github.io/static/js/main.ea6fb9fc.chunk.js",
+    "main.js.map": "/Calvinist-1689/marvel.github.io/static/js/main.ea6fb9fc.chunk.js.map",
+    "runtime-main.js": "/Calvinist-1689/marvel.github.io/static/js/runtime-main.aaf84be6.js",
+    "runtime-main.js.map": "/Calvinist-1689/marvel.github.io/static/js/runtime-main.aaf84be6.js.map",
+    "static/js/2.9fc4ff01.chunk.js": "/Calvinist-1689/marvel.github.io/static/js/2.9fc4ff01.chunk.js",
+    "static/js/2.9fc4ff01.chunk.js.map": "/Calvinist-1689/marvel.github.io/static/js/2.9fc4ff01.chunk.js.map",
+    "index.html": "/Calvinist-1689/marvel.github.io/index.html",
+    "static/css/main.3a9b5ecc.chunk.css.map": "/Calvinist-1689/marvel.github.io/static/css/main.3a9b5ecc.chunk.css.map",
+    "static/js/2.9fc4ff01.chunk.js.LICENSE.txt": "/Calvinist-1689/marvel.github.io/static/js/2.9fc4ff01.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/Calvinist-1689/marvel.github.io/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/Calvinist-1689/marvel.github.io/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/Calvinist-1689/marvel.github.io/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaf84be6.js",
+    "static/js/2.9fc4ff01.chunk.js",
+    "static/css/main.3a9b5ecc.chunk.css",
+    "static/js/main.ea6fb9fc.chunk.js"
+  ]
+}
